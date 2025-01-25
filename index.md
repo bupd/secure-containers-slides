@@ -76,6 +76,7 @@ marp: true
 
 ---
 ## Now to Harbor & SBOM
+- SBOM: Software Bill of Materials (aka cookbook for deps)
 
 ---
 
