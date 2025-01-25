@@ -3,7 +3,7 @@ marp: true
 ---
 <!-- _class: top -->
 
-# Building CLIs in 5 Minutes with Go: Why the Terminal is the Future (Vim Included)
+# Building Secure Containers: A Practical Guide to Harbor and Vulnerability Scanning
 ###### by Prasanth Baskar (bupd)
 ---
 
@@ -11,9 +11,9 @@ marp: true
 ###### (Just Another Developer)
 
 - Hates Bloated GUIs.
-- Creator of [git-donkey](https://github.com/bupd/git-donkey) **(CLI)**
-- Software Engineer - 8gears AG
-- Core Contributor of Harbor Container Registry
+- Creator of [git-donkey](https://github.com/bupd/git-donkey) & [TimeOtter](https://github.com/bupd/timeotter)
+- OSS Software Engineer - 8gears AG
+- Core Contributor of Harbor Container Registry (CNCF)
 ---
 
 ## What We’ll See in This Talk
